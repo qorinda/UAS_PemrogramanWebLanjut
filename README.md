@@ -1,2 +1,4 @@
 # UAS_PemrogramanWebLanjut
-Nama : Qorinda Yulvarisma
+Nama Anggota Kelompok : 
+- Abdurrasyid Muhasibi
+- Qorinda Yulvarisma
